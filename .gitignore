@@ -1,5 +1,3 @@
 target
-.idea/modules
-.idea/libraries
 .idea
 *.avro
